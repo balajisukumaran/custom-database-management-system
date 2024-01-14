@@ -1,0 +1,4 @@
+transaction_id: int
+sender_acct_no: int
+receiver_acct_no: int
+transfer_amount: int

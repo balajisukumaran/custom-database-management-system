@@ -1,0 +1,5 @@
+account_no: int¶primary_key
+first_name: varchar(50)
+last_name: varchar(50)
+location: varchar(10)
+balance: int
